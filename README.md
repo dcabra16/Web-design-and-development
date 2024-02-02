@@ -1,2 +1,1 @@
-# Web-design-and-development
-class labs
+# lab_1_tutorial
